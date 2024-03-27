@@ -1,7 +1,7 @@
 .git{
   color: red;
 
-.box{
+.box, .box2{
   color: pink;
   width: 100px;
 }
